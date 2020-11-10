@@ -46,4 +46,10 @@
        git checkout contrib
        git merge master
 
-6. Vous êtes prêt à recommencer le cycle depuis l'étape 2.
+6. Vous êtes prêt à recommencer le cycle depuis l'étape **3 d** après avoir «synchroniser» votre dépôt local:
+
+        git checkout master
+        git pull
+        git checkout contrib
+        git merge master
+        ... prêt à travailler à nouveau ...
