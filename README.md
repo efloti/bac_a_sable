@@ -13,7 +13,7 @@
        git config --global user.name <votre_login>
        git config --global user.email <votre_email>
    
-   b. Configurer le suivi du dépôt principal (celui-ci):
+   b. Après s'être placé dans le répertoire créé - `cd bac_a_sable` - configurer le suivi du dépôt principal:
    
        git remote add principal https://github.com/efloti/bac_a_sable
        git fetch
